@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 | ニックネーム | Ryuki |
 | --- | --- |
 | 年齢 | 23歳 |
-| 出身 | 東京 |
-| 趣味 | ダイビング・カメラなど |
+| 出身地 | 東京 |
+| 好きなこと | 旅行・ダイビング・カメラなど |
+| Twitter | [@makeualoha](https://twitter.com/makeualoha)<br>水中写真をメインに投稿しています🐬|
 
